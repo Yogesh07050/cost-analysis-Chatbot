@@ -2,6 +2,8 @@
 
 An intelligent chatbot built with **LangChain** and **LangGraph** that allows you to query your database using natural language. Ask questions about your data in plain English and get instant SQL-backed answers with detailed reasoning.
 
+Test it here : https://cost-analysis-chatbot.streamlit.app/
+
 ## 🌟 Features
 
 - **Natural Language to SQL**: Ask questions in plain English, get SQL queries automatically
