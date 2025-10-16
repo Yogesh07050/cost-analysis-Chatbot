@@ -339,9 +339,9 @@ Feel free to:
 - Share your improvements
 - Open issues for bugs
 
-## 📝 License
+## 📝 Note
 
-MIT License - feel free to use this project however you like!
+- cost_analysis_chatbot.ipynb file is just for reference, use streamlit_cloud.py 
 
 ---
 
